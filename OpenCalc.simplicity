@@ -1,0 +1,7 @@
+-- OpenCalc.simplicity -- Simplified Structure for Simplicity (Example)
+
+type main = {
+    add: (int, int) -> int,
+    subtract: (int, int) -> int,
+    // Define other operations here
+};
