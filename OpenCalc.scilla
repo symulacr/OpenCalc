@@ -1,0 +1,17 @@
+// OpenCalc.scilla - Scilla Smart Contract
+
+contract OpenCalc {
+    transition add(a: Uint32, b: Uint32) {
+        e = a + b;
+        msg = { Int32 e }
+        event e
+    }
+
+    transition subtract(a: Uint32, b: Uint32) {
+        e = a - b;
+        msg = { Int32 e }
+        event e
+    }
+
+    // Implement other mathematical operations as needed
+}
