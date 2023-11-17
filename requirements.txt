@@ -1,0 +1,7 @@
+# Solidity Compiler Version
+solc==0.8.0
+
+# Development Tools
+truffle==5.4.11        # Solidity development environment
+ganache-cli==7.0.0     # Local Ethereum blockchain for testing
+web3==1.5.3            # Ethereum JavaScript API for interacting with Ethereum networks
