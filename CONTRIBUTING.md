@@ -6,7 +6,7 @@ Welcome to OpenCalc! We encourage and appreciate contributions from all individu
 
 1. **Fork the repository.**
 2. **Create a new branch:** Make sure your branch name clearly reflects the feature/bug fix you're working on.
-3. **Implement your changes:** Follow the project's code style and best practices.
+3. **Implement your changes:** Follow the project's  code style and best practices.
 4. **Test your changes:** Ensure your code functions as intended.
 5. **Commit your changes:** Use descriptive and concise commit messages.
 6. **Push to your branch:** `git push origin your-branch-name`.
